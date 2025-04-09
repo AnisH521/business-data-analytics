@@ -31,7 +31,7 @@ project_root/
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone <repository_url>
+   git clone https://github.com/AnisH521/business-data-analytics.git
    cd project_root
    ```
 
